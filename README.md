@@ -15,7 +15,7 @@ The design for Fitness UI draws inspiration from a stunning concept found on Dri
 
 ## Screenshot
 
-![Screenshot](https://github.com/chiragmali19/fitness_ui/blob/main/path/to/your/screenshot.png) 
+<img src="https://github.com/user-attachments/assets/d9f810b3-cfc4-4654-90ac-6b0fa02b5ae7" alt="1st Screenshot"/>
 
 *Ensure to replace the path with the correct one if needed.*
 
@@ -36,4 +36,4 @@ Follow these steps to set up and run the Fitness UI app on your local machine:
    Start by cloning the repository to your local machine:
 
    ```bash
-   git clone https://github.com/chiragmali19/fitness_ui.git
+   https://github.com/chiragmali19/fitness_ui.git
