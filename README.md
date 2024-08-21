@@ -11,7 +11,7 @@ Welcome to **Fitness UI**, a modern and visually captivating Flutter application
 
 ## 📸 Design Inspiration
 
-The design for Fitness UI draws inspiration from a stunning concept found on Dribbble. This sleek and engaging design is crafted to provide users with a top-notch visual experience. Check out the original design https://dribbble.com/shots/24658939 to see where the inspiration came from.
+The design for Fitness UI draws inspiration from a stunning concept found on Dribbble. This sleek and engaging design is crafted to provide users with a top-notch visual experience.
 
 ## Screenshot
 
